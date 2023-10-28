@@ -1,0 +1,6 @@
+ID-ul: 2 Titlul: Hapciu Genul: Hapciu Actorul: Hapciu An: 103
+
+ID-ul: 3 Titlul: Hapciu Genul: Hapciu Actorul: Hapciuasd An: 1103
+
+ID-ul: 1 Titlul: Scufita Rosie Genul: Frati Grimm Actorul: Basm An: 1950
+

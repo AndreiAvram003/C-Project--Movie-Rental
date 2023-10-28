@@ -1,0 +1,21 @@
+[2023-05-11 22:48:28] [info] Start Program:
+Path:"C:\Users\Andrei\Desktop\Faculta\OOP\l10 bun\x64\Debug\l10 bun.exe"
+Arguments:
+Working directory: "C:\Users\Andrei\Desktop\Faculta\OOP\l10 bun\l10 bun\"
+Modules: Selected: C:\Users\Andrei\Desktop\Faculta\OOP\l10 bun\x64\Debug\l10 bun.exe Excluded: 
+Sources: Selected: C:\Users\Andrei\Desktop\Faculta\OOP\l10 bun\l10 bun Excluded: ProductGui.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Andrei\AppData\Local\Temp\4pw13tve.2he 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-05-11 22:48:38] [info] Module: C:\Users\Andrei\Desktop\Faculta\OOP\l10 bun\x64\Debug\l10 bun.exe is selected because it matches selected pattern: C:\Users\Andrei\Desktop\Faculta\OOP\l10 bun\x64\Debug\l10 bun.exe
+[2023-05-11 22:48:38] [info] ----------------------------------------------------
+[2023-05-11 22:48:38] [info] Coverage binary generated in file: C:\Users\Andrei\AppData\Local\Temp\4pw13tve.2he
+[2023-05-11 22:48:38] [info] ----------------------------------------------------
